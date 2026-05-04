@@ -513,9 +513,6 @@ body.mobile-nav--is--visible .app-header .navigation .line:nth-child(2) .content
   cursor: pointer;
 }
 
-body.theme-slider--is--visible {
-  /* transition: color 0.3s ease, background-color 0.3s ease; */
-}
 
 body.theme-slider--is--visible .app-aside .option.theme {
   height: 368px;
@@ -963,7 +960,6 @@ body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(1) {
   opacity: 1;
 }
 
-.section.intro .texts {}
 
 .section.intro .texts.custom-intro-texts {
   margin-left: -220px;
@@ -1116,7 +1112,6 @@ body.theme-slider--is--visible .app-aside .option.theme .dot:nth-child(1) {
   fill: var(--color--foreground--100);
 }
 
-.section.background .item .company {}
 
 .section.background .item .role {
   padding-top: 0.1em;

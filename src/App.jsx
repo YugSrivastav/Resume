@@ -339,7 +339,7 @@ function App() {
               </p>
               <div className="stat-row">
                 <StatCounter target={50} label="APIs integrated" delay={0} suffix="+" />
-                <StatCounter target={2100} label="Ideas validated" delay={150} suffix="+" />
+                <StatCounter target={500} label="Ideas validated" delay={150} suffix="+" />
                 <StatCounter target={1500} label="Data points per report" delay={300} suffix="+" duration={1300} />
               </div>
             </div>
